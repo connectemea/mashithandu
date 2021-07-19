@@ -1,6 +1,6 @@
 # Global Variables
 MAX_CHANGE_LENGTH=10
-CHANGABLE_FILE="blackboard/addName.txt"
+CHANGABLE_FILE="blackboard/emea.txt"
 
 # Getting changed file
 FILE="$(git diff --name-only HEAD~1)"
