@@ -1,6 +1,6 @@
 # mashithandu
 
-![mashithandu](https://github.com/tinkerhub-org/mashithandu/blob/main/resources/rajesh-mashithandu.jpg)
+![mashithandu](https://raw.githubusercontent.com/connectemea/mashithandu/main/resources/rajesh-mashithandu.jpg)
 
 ## About this repo 
 
